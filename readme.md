@@ -31,5 +31,5 @@ Using the code :
 	- "logreg2.jl" binary regression with the logistic link function 
 	- "ring.jl" A probabilistic distribution where the typical set has a form of a ring on R^2
  
- 5. Files example-funnel.jl, example-logreg.jl, example-squiggle provide examples on how to use the code
+ 5. Files example-funnel.jl, example-logreg.jl and example-squiggle provide examples on how to use the code
 
